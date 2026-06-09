@@ -4,16 +4,15 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-    const seen = {};
+    const seen = new Map();
 
     for (const [i, num] of nums.entries()) {
         const need = target - num;
 
-        if (need in seen) {
-            return [seen[need], i];
+        if (seen.has(need)) {
+            return [seen.get(need), i];
         }
 
-        seen[num] = i;
+        seen.set(num, i);
     }
-    
 };

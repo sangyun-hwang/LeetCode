@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sangyun-hwang/LeetCode/tree/master/0001-two-sum) |
+| [0200-number-of-islands](https://github.com/sangyun-hwang/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sangyun-hwang/LeetCode/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
@@ -30,13 +31,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sangyun-hwang/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sangyun-hwang/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sangyun-hwang/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sangyun-hwang/LeetCode/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sangyun-hwang/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sangyun-hwang/LeetCode/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sangyun-hwang/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

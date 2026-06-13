@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sangyun-hwang/LeetCode/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/sangyun-hwang/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sangyun-hwang/LeetCode/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/sangyun-hwang/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/sangyun-hwang/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sangyun-hwang/LeetCode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/sangyun-hwang/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sangyun-hwang/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sangyun-hwang/LeetCode/tree/master/0994-rotting-oranges) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sangyun-hwang/LeetCode/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sangyun-hwang/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

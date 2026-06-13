@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sangyun-hwang/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/sangyun-hwang/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/sangyun-hwang/LeetCode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/sangyun-hwang/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/sangyun-hwang/LeetCode/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
@@ -114,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sangyun-hwang/LeetCode/tree/master/0053-maximum-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/sangyun-hwang/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->

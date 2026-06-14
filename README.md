@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sangyun-hwang/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/sangyun-hwang/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sangyun-hwang/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/sangyun-hwang/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/sangyun-hwang/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sangyun-hwang/LeetCode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/sangyun-hwang/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sangyun-hwang/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/sangyun-hwang/LeetCode/tree/master/0290-word-pattern) |
 ## Sorting
 |  |
 | ------- |

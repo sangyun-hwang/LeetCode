@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sangyun-hwang/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/sangyun-hwang/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sangyun-hwang/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0695-max-area-of-island](https://github.com/sangyun-hwang/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/sangyun-hwang/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/sangyun-hwang/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/sangyun-hwang/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -52,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sangyun-hwang/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sangyun-hwang/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sangyun-hwang/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sangyun-hwang/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sangyun-hwang/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sangyun-hwang/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sangyun-hwang/LeetCode/tree/master/0994-rotting-oranges) |
 ## Matrix
@@ -66,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sangyun-hwang/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sangyun-hwang/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sangyun-hwang/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sangyun-hwang/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sangyun-hwang/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sangyun-hwang/LeetCode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sangyun-hwang/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sangyun-hwang/LeetCode/tree/master/0695-max-area-of-island) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sangyun-hwang/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/sangyun-hwang/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sangyun-hwang/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0307-range-sum-query-mutable](https://github.com/sangyun-hwang/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/sangyun-hwang/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/sangyun-hwang/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/sangyun-hwang/LeetCode/tree/master/0704-binary-search) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sangyun-hwang/LeetCode/tree/master/0053-maximum-subarray) |
+| [0307-range-sum-query-mutable](https://github.com/sangyun-hwang/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/sangyun-hwang/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -146,4 +148,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sangyun-hwang/LeetCode/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/sangyun-hwang/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/sangyun-hwang/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/sangyun-hwang/LeetCode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->

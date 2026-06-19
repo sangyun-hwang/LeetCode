@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/sangyun-hwang/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sangyun-hwang/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/sangyun-hwang/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0503-next-greater-element-ii](https://github.com/sangyun-hwang/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sangyun-hwang/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/sangyun-hwang/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/sangyun-hwang/LeetCode/tree/master/0704-binary-search) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sangyun-hwang/LeetCode/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/sangyun-hwang/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sangyun-hwang/LeetCode/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
@@ -181,5 +183,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/sangyun-hwang/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sangyun-hwang/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

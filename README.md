@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sangyun-hwang/LeetCode/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/sangyun-hwang/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sangyun-hwang/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/sangyun-hwang/LeetCode/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sangyun-hwang/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0901-online-stock-span](https://github.com/sangyun-hwang/LeetCode/tree/master/0901-online-stock-span) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -185,4 +187,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/sangyun-hwang/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sangyun-hwang/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/sangyun-hwang/LeetCode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sangyun-hwang/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

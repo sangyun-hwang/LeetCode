@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sangyun-hwang/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/sangyun-hwang/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/sangyun-hwang/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/sangyun-hwang/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/sangyun-hwang/LeetCode/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sangyun-hwang/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sangyun-hwang/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/sangyun-hwang/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sangyun-hwang/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |

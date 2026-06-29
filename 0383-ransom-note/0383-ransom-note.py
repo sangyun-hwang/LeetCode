@@ -1,16 +1,14 @@
+from collections import Counter
+
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        import collections
+        counter = Counter(magazine)
 
-        char_map = collections.defaultdict(int)
-
-        for char in magazine:
-            char_map[char] += 1 
-
-        for char in ransomNote:
-            char_map[char] -= 1 
-            if char_map[char] < 0:
+        for r in ransomNote:
+            if not counter[r]: 
                 return False
-
+            elif counter[r] > 0: 
+                counter[r] -= 1
+  
         return True
         

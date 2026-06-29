@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sangyun-hwang/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sangyun-hwang/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/sangyun-hwang/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/sangyun-hwang/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/sangyun-hwang/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sangyun-hwang/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sangyun-hwang/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sangyun-hwang/LeetCode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/sangyun-hwang/LeetCode/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sangyun-hwang/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/sangyun-hwang/LeetCode/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
